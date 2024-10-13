@@ -41,9 +41,9 @@ section {
 }
 
 .profile-image {
-    width: 200px; /* Adjust the size as needed */
-    margin-right: 20px; /* Space between image and text */
-    border-radius: 8px; /* Optional: for rounded corners */
+    width: 200px; 
+    margin-right: 20px; 
+    border-radius: 8px; 
 }
 
 .project {
