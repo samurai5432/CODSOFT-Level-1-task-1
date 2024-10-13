@@ -1,0 +1,74 @@
+p {font-size: 25px;
+}
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    background-image: url(https://wallpaperaccess.com/full/2906344.jpg);
+  background-size:auto;
+  background-position: inherit;
+  background-repeat: no-repeat;
+    
+    
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #ff3300;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+}
+
+.profile-image {
+    width: 200px; /* Adjust the size as needed */
+    margin-right: 20px; /* Space between image and text */
+    border-radius: 8px; /* Optional: for rounded corners */
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    color: #00bcd4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
